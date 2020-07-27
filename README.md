@@ -3,5 +3,8 @@
 # Packages Use
 - Express
 - Postgres
+- Sequelize
+- Sequelize-cli
+
 
 # Use de Project
