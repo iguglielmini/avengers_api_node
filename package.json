@@ -1,0 +1,16 @@
+{
+  "name": "avengers_api_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iguglielmini/avengers_api_node.git",
+  "author": "Italo Guglielmini <italo.guglielmini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0",
+    "sequelize": "^6.3.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
