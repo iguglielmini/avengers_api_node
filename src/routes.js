@@ -1,5 +1,5 @@
-const routes = require('express').Router()
-const { User } = require("./app/models")
+const routes = require('express').Router();
+const { User } = require("./app/models");
 // definição de rotas
 User.create({
     name: "Italo",

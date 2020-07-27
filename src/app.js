@@ -11,6 +11,7 @@ class AppController {
     middlewares(){
         this.express.use(express.json());
     }
+    
     routes(){
         this.express.use(require("./routes"));
     }
